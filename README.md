@@ -22,5 +22,14 @@ https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggem
 1. サーバーを起動する
 2. REST Clientでリクエストを送ってみる
 
+
+### REST Clientの使い方
+#### Get
 ![Get Example](./images/image1.png)
-![Post Example](./images/image2.png)
+
+#### パラメータを含むGet
+![Get Example](./images/image2.png)
+
+#### Post
+![Post Example](./images/image3.png)
+

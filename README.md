@@ -8,6 +8,8 @@ Sinatra Sample
 $ bundle install --path vendor/bundle
 ```
 
+bundlerがないぞ！と怒られた場合は， `gem install bundler` しよう！
+
 ## 起動
 ```
 $ ruby app.rb
